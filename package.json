@@ -13,7 +13,7 @@
   "files": [
     "src/*"
   ],
-  "author": "Nithin David <nithin@karuapp.com>",
+  "author": "Manuel Davila <manu@karuapp.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/karuapp/prosemirror-schema/issues"
